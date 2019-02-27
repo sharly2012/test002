@@ -1,0 +1,11 @@
+
+file_name : E:\PycharmProjects\test002\count_line.py 
+line count::47
+total count:47
+file_name : E:\PycharmProjects\test002\sort.py 
+line count::56
+total count:103
+
+--------------------------------------
+total file count:2
+total line count:103
